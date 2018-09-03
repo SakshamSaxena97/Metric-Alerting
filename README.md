@@ -12,7 +12,7 @@
 <br>
 <br>
 -- In **helpers.py**<br>
-    - In function <h4>send_mail()</h4><br>
+    - In function **send_mail()**<br>
         1.) add mail ids to whom mail should be sent in list named **TO = ['mail ID']**<br> 
 
 
