@@ -1,0 +1,10 @@
+{
+  "gmail":{
+        "auth": true,
+        "starttls.enable": true,
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "user": "<MAIL_ID through which SMTP will sent mail>",
+        "password": "<PASSWORD>"
+    }
+}
